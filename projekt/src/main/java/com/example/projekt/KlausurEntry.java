@@ -8,6 +8,7 @@ public class KlausurEntry {
 
 
     public KlausurEntry(String klausur) {
+
         this.klausur = klausur;
     }
 
@@ -16,22 +17,27 @@ public class KlausurEntry {
     }
 
     public void setKlausur(String klausur) {
+
         this.klausur = klausur;
     }
 
     public String getThemen() {
+
         return themen;
     }
 
     public void setThemen(String themen) {
+
         this.themen = themen;
     }
 
     public boolean isDone() {
+
         return done;
     }
 
     public void setDone(boolean done) {
+
         this.done = done;
     }
 
