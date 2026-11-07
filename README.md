@@ -1,1 +1,3 @@
-Ich baue einen Klausurlernplan mit Klausur und Unterthemen zum Überblick behalten, was man schon gelernt hat und was nicht (wie eine To-do Liste aufgebaut)
+# Klausurenlernplan-backend
+
+Eine Anwendung um sich einen Lernplan für die Klausurenphase erstellen zu können und um nachvollziehen zu können, welche Themen man schon abgearbeitet bzw gelernt hat.
